@@ -1,0 +1,12 @@
+name: ExploitFixer
+main: 
+version: 1.4.9
+author: passddos
+api: "1.13"
+api-version: "1.13"
+softdepend: [HamsterAPI]
+commands:
+  exploitfixer:
+    description: The main ExploitFixer command
+    usage: /exploitfixer
+    aliases: [ef]
